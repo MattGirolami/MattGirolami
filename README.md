@@ -1,4 +1,8 @@
 ## Hi there 👋
+<hr>
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MattGirolami)
+![github stats](https://github-readme-stats.vercel.app/api?username=MattGirolami&show_icons=true&count_private=true&line_height=40)
 
 <!--
 **MattGirolami/MattGirolami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
